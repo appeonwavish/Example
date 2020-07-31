@@ -9,7 +9,7 @@ global type w_center from window
 integer width = 2706
 integer height = 1620
 boolean titlebar = true
-string title = "Untitled"
+string title = "Untitle"
 boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
