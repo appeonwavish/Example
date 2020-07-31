@@ -12,6 +12,7 @@ integer x = 416
 integer y = 364
 integer width = 2199
 integer height = 1612
+string title = "Untitle"
 boolean minbox = false
 boolean maxbox = false
 boolean resizable = false
