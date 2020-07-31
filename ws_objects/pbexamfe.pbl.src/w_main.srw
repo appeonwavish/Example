@@ -176,7 +176,7 @@ is_LibraryList[10] = "pbexamsy.pbl"
 Choose Case ge_Environment.OSType
 	Case windows!
 		If ge_Environment.OSMajorRevision = 4 Then
-			// Windows 95
+			// Windows 95 //
 			ls_OSType = "winnt"
 		Else
 			ls_OSType = "windows"
