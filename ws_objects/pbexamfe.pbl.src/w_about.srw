@@ -176,7 +176,7 @@ boolean focusrectangle = false
 end type
 
 type cb_ok from commandbutton within w_about
-integer x = 512
+integer x = 1006
 integer y = 704
 integer width = 320
 integer height = 84
@@ -186,7 +186,7 @@ integer weight = 400
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "MS Sans Serif"
-string text = "OK"
+string text = "2"
 boolean default = true
 end type
 
