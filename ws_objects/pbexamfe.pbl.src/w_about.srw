@@ -186,7 +186,7 @@ integer weight = 400
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "MS Sans Serif"
-string text = "2"
+string text = "22"
 boolean default = true
 end type
 
